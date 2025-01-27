@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1091569061800",
+    "project_id": "fierbacelogin",
+    "storage_bucket": "fierbacelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091569061800:android:6160849489d1dbc18d979d",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091569061800-hcis49j821ioh4u8vq91fjjpll6aeb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2M5wHZOXHOdcs6DmmN2H-oroJL4Ye2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091569061800-hcis49j821ioh4u8vq91fjjpll6aeb5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091569061800:android:9de857413af92b698d979d",
+        "android_client_info": {
+          "package_name": "com.sufium.sufium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091569061800-hcis49j821ioh4u8vq91fjjpll6aeb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2M5wHZOXHOdcs6DmmN2H-oroJL4Ye2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091569061800-hcis49j821ioh4u8vq91fjjpll6aeb5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="untitled5">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>untitled5</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+
+<!-- Firebase SDK -->
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+
+<!-- Firebase Configuration -->
+<script>
+  var firebaseConfig = {
+    apiKey: "AIzaSyAvUGU3VGbnru7oRtDCrIfA_bcm0Qodjiw",
+    authDomain: "loginfierbase-c4bc0.firebaseapp.com",
+    projectId: "loginfierbase-c4bc0",
+    storageBucket: "loginfierbase-c4bc0.appspot.com",
+    messagingSenderId: "88867532408",
+    appId: "1:88867532408:web:23549621489296af9ac78d"
+  };
+
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
+
+<script src="flutter_bootstrap.js" async></script>
+<script src="main.dart.js" type="application/javascript"></script>
+
+</body>
+</html>
